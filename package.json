@@ -11,6 +11,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^5.7.5",
     "convex": "^1.17.0",
     "dotenv": "^16.4.5",
     "next": "^15.0.1",
